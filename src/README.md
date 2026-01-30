@@ -235,9 +235,6 @@ proxy: {
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -245,10 +242,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Qwen](https://huggingface.co/Qwen) for the language model
 - [Vite](https://vitejs.dev/) for the build tool
 - [React](https://react.dev/) for the UI framework
-
-## Support
-
-If you encounter any issues or have questions, please open an issue on the GitHub repository.
 
 ---
 
